@@ -1,7 +1,7 @@
 # SuperSecretProject
 
 Hello Friend, 
-That is our secret project against BitEv$l-corp. 
+That is our secret project against Bit$vel-corp. 
 We had to defend its integrity by intentionally corrupting its format. 
 To restore it to the proper format, you must delete it every 9 bit.
 
